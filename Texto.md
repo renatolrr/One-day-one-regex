@@ -9,4 +9,13 @@ hora = "\d?\d:\d?\d"
 am = "(A|P)M"  
 patron = "^"+ciudad+"\s"+fecha+"\s"+hora+"\s"+am+"$"  
   
+Fuente: Pyhton Avanzado Osl  
 
+#Día 2  
+  
+##Número de teléfono.  
+  
+^[0-9]{3}-?[0-9]{3}-?[0-9]{3}$   
+  
+
+ 
