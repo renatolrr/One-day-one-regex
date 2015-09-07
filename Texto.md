@@ -19,8 +19,9 @@ Fuente: Pyhton Avanzado Osl
   
 #Día 3 
   
-## email  
+##Email  
 
+(\W|^)[\w.+\-]{0,25}@(yahoo|hotmail|gmail)\.com(\W|$)  
  
  
  
