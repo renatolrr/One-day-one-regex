@@ -17,5 +17,10 @@ Fuente: Pyhton Avanzado Osl
   
 ^[0-9]{3}-?[0-9]{3}-?[0-9]{3}$   
   
+#Día 3 
+  
+## email  
 
+ 
+ 
  
