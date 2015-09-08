@@ -22,6 +22,15 @@ Fuente: Pyhton Avanzado Osl
 ##Email  
 
 (\W|^)[\w.+\-]{0,25}@(yahoo|hotmail|gmail)\.com(\W|$)  
+
+#Día 4 
+  
+##Validar un email  
+  
+^[a-zA-Z0-9_\-\.~]{2,}@[a-zA-Z0-9_\-\.~]{2,}\.[a-zA-Z]{2,4}$  
+
+  
+
  
  
  
