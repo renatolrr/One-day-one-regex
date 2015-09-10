@@ -28,9 +28,11 @@ Fuente: Pyhton Avanzado Osl
 ##Validar un email  
   
 ^[a-zA-Z0-9_\-\.~]{2,}@[a-zA-Z0-9_\-\.~]{2,}\.[a-zA-Z]{2,4}$  
-
   
+#Día 5
 
+Buscar números de tres digitos en un párrafo.
+^[:dígito:]{3}$
  
  
  
