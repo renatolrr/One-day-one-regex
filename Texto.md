@@ -31,12 +31,18 @@ Fuente: Pyhton Avanzado Osl
   
 #Día 5
 
-##Buscar números de tres digitos en un párrafo.
-^[:dígito:]{3}$
+##Buscar números de tres digitos en un párrafo.  
+  
+^[:dígito:]{3}$  
 
 #Día 6. 
   
-Buscar una ip en un rango. 
+##Buscar una ip en un rango. 
 
- 192\.168\.1\.\d{1,3} 
- 
+192\.168\.1\.\d{1,3}   
+  
+#Día 7
+
+##Fecha en formato dd/mm/yyyy (dí­as < 32 y meses < 13) 
+  
+/^([0][1-9]|[12][0-9]|3[01])(\/|-)([0][1-9]|[1][0-2])\2(\d{4})$/  
