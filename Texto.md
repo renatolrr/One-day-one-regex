@@ -33,6 +33,10 @@ Fuente: Pyhton Avanzado Osl
 
 ##Buscar números de tres digitos en un párrafo.
 ^[:dígito:]{3}$
- 
- 
+
+#Día 6. 
+  
+Buscar una ip en un rango. 
+
+ 192\.168\.1\.\d{1,3} 
  
