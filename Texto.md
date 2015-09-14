@@ -46,3 +46,9 @@ Fuente: Pyhton Avanzado Osl
 ##Fecha en formato dd/mm/yyyy (dí­as < 32 y meses < 13) 
   
 /^([0][1-9]|[12][0-9]|3[01])(\/|-)([0][1-9]|[1][0-2])\2(\d{4})$/  
+  
+#Día 8  
+  
+##Validar código postal  
+  
+^([1-9]{2}|[0-9][1-9]|[1-9][0-9])[0-9]{3}$  
