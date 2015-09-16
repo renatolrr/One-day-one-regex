@@ -49,6 +49,12 @@ Fuente: Pyhton Avanzado Osl
   
 #Día 8  
   
+<<<<<<< HEAD
 ## Validar una URL
   
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \?=.-]*)*\/?$/  
+=======
+##Validar código postal  
+  
+^([1-9]{2}|[0-9][1-9]|[1-9][0-9])[0-9]{3}$  
+>>>>>>> a97d3f90abbd67c04a3a86e6267e5cc4fe95b06e
