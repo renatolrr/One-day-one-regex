@@ -52,12 +52,14 @@ Fuente: Pyhton Avanzado Osl
 ## Validar una URL
   
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \?=.-]*)*\/?$/  
-
+  
+#Día 9  
+  
 ##Validar código postal  
   
 ^([1-9]{2}|[0-9][1-9]|[1-9][0-9])[0-9]{3}$  
   
-#día 10. 
+#Día 10. 
 ##Validar número de tarjeta de crédito
   
 ^((67\d{2})|(4\d{3})|(5[1-5]\d{2})|(6011))(-?\s?\d{4}){3}|(3[4,7])\ d{2}-?\s?\d{6}-?\s?\d{5}$  
