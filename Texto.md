@@ -63,3 +63,8 @@ Fuente: Pyhton Avanzado Osl
 ##Validar número de tarjeta de crédito
   
 ^((67\d{2})|(4\d{3})|(5[1-5]\d{2})|(6011))(-?\s?\d{4}){3}|(3[4,7])\ d{2}-?\s?\d{6}-?\s?\d{5}$  
+  
+#Día 11
+## Validar un nombre de usuario minimo 4 caracteres maximo 10  
+  
+/^[a-z\d_]{4,10}$/i  
