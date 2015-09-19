@@ -68,3 +68,9 @@ Fuente: Pyhton Avanzado Osl
 ## Validar un nombre de usuario minimo 4 caracteres maximo 10  
   
 /^[a-z\d_]{4,10}$/i  
+  
+#Día 12. 
+   
+#Comprobar la seguridad de una contraseña
+  
+(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$  
