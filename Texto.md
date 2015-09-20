@@ -74,3 +74,8 @@ Fuente: Pyhton Avanzado Osl
 #Comprobar la seguridad de una contraseña
   
 (?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$  
+  
+#Día 12+1. 
+##Id video YouTube. 
+  
+ /http:\/\/(?:youtu\.be\/|(?:[a-z]{2,3}\.)?youtube\.com\/watch(?:\?|#\!)v=)([\w-]{11}).*/gi 
