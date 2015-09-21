@@ -82,4 +82,6 @@ Fuente: Pyhton Avanzado Osl
  
 #Día 14. 
   
-##Validar etiquetas de imágenes sin cerrar. <img([^>]+)(s*[^/])></img([^> 
+##Validar etiquetas de imágenes sin cerrar.   
+  
+<img([^>]+)(s*[^/])></img([^> 
