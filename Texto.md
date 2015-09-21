@@ -79,3 +79,7 @@ Fuente: Pyhton Avanzado Osl
 ##Id video YouTube. 
   
  /http:\/\/(?:youtu\.be\/|(?:[a-z]{2,3}\.)?youtube\.com\/watch(?:\?|#\!)v=)([\w-]{11}).*/gi 
+ 
+#Día 14. 
+  
+##Validar etiquetas de imágenes sin cerrar. <img([^>]+)(s*[^/])></img([^> 
