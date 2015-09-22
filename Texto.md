@@ -23,7 +23,7 @@ Fuente: Pyhton Avanzado Osl
 
 (\W|^)[\w.+\-]{0,25}@(yahoo|hotmail|gmail)\.com(\W|$)  
 
-#Día 4 
+#Día 4  
   
 ##Validar un email  
   
