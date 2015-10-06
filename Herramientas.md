@@ -10,7 +10,16 @@ http://regexper.com/
   
 Regexr  
   
-http://www.regexr.com/
+http://www.regexr.com/  
+  
+txt2re  
+  
+http://txt2re.com/ 
+  
+regexpal  
+  
+http://regexpal.com/
+  
   
   
   
