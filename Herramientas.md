@@ -20,6 +20,6 @@ regexpal
   
 http://regexpal.com/
   
+Complemento para firefox  
   
-  
-  
+HTML Regex Data Extractor
